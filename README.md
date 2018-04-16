@@ -1,0 +1,1 @@
+This assignment introduced us to React components (functional and class-based) and showed us how to import/export components, use/change state, and render components.
